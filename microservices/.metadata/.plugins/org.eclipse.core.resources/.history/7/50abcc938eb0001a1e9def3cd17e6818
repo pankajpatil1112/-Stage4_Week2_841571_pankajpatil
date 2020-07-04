@@ -1,0 +1,5 @@
+package com.cognizant.zuulgateway;
+
+public class SimpleFilter {
+
+}

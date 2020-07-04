@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="eureka-discovery-server"/>
+<aop-project name="zuul-gateway"/>
+<aop-project name="account"/>
+<aop-project name="loan"/>
+</aop-reference-model>

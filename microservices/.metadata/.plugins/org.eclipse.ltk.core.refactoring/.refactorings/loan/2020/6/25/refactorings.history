@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cognizant.loan.service.LoanDaoImpl&apos; to &apos;LoanServiceImp&apos;&#x0D;&#x0A;- Original project: &apos;loan&apos;&#x0D;&#x0A;- Original element: &apos;com.cognizant.loan.service.LoanDaoImpl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cognizant.loan.service.LoanServiceImp&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoanDaoImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.cognizant.loan.service{LoanDaoImpl.java[LoanDaoImpl" matchStrategy="1" name="LoanServiceImp" qualified="false" references="true" similarDeclarations="false" stamp="1592388084909" textual="false" version="1.0"/>
+</session>

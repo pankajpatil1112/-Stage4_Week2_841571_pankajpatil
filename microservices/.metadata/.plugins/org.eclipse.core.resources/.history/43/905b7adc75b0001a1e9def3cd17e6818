@@ -1,0 +1,7 @@
+package com.cognizant.account.model;
+
+public class Account {
+  private int number;
+  private String type;
+  private double balance;
+}

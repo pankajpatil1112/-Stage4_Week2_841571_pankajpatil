@@ -1,0 +1,3 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/account/src/main/resources/account.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/loan/src/main/resources/loan.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

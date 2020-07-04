@@ -1,0 +1,7 @@
+package com.cognizant.account.service;
+
+import com.cognizant.account.model.Account;
+
+public interface AccountService {
+    public Account getAccount(int number);
+}

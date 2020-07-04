@@ -1,0 +1,5 @@
+package com.cognizant.account.service;
+
+public interface AccountService {
+
+}
