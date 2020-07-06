@@ -1,0 +1,853 @@
+2020-07-05 15:15:24,268 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR6/spring-cloud-dependencies-Hoxton.SR6.pom
+2020-07-05 15:15:39,049 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-05 15:15:42,868 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.3.1.RELEASE/spring-boot-starter-security-2.3.1.RELEASE.pom
+2020-07-05 15:15:43,305 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.pom
+2020-07-05 15:15:43,663 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/springfox/springfox-swagger-ui/2.9.2/springfox-swagger-ui-2.9.2.pom
+2020-07-05 15:15:44,045 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/io/jsonwebtoken/jjwt/0.9.0/jjwt-0.9.0.pom
+2020-07-05 15:15:47,325 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/5.3.3.RELEASE/spring-security-test-5.3.3.RELEASE.pom
+2020-07-05 15:15:53,374 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/main/java
+2020-07-05 15:15:53,376 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-05 15:15:53,390 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-05 15:15:53,405 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/test/java
+2020-07-05 15:15:53,696 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-05 15:15:56,159 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 33 sec
+2020-07-05 15:16:04,984 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-05 15:19:05,209 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-05 15:19:16,931 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/main/java
+2020-07-05 15:19:16,932 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-05 15:19:16,938 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-05 15:19:16,945 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/test/java
+2020-07-05 15:19:19,657 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-05 15:19:22,864 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 22 sec
+2020-07-05 15:19:30,610 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-05 15:19:35,440 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:19:35,450 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:19:35,500 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:19:35,505 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:19:35,505 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-05 15:20:57,633 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:21:03,988 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/main/java
+2020-07-05 15:21:03,988 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-05 15:21:03,994 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-05 15:21:04,001 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/test/java
+2020-07-05 15:21:05,778 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:21:06,303 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2020-07-05 15:21:11,972 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:21:17,616 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:21:17,617 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:21:17,639 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:21:17,645 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:21:17,646 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:21:20,148 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:21:27,742 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:21:27,747 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:21:27,747 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:21:27,754 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:21:27,755 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:22:11,363 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:22:14,307 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-07-05 15:22:14,308 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:22:14,314 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:22:14,322 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-07-05 15:22:14,985 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-07-05 15:22:16,309 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:22:17,657 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:22:23,183 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:23:16,611 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:23:22,140 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/main/java
+2020-07-05 15:23:22,141 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:23:22,147 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:23:22,154 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/test/java
+2020-07-05 15:23:23,885 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2020-07-05 15:23:24,644 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:23:28,088 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:23:32,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:23:32,701 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:23:32,745 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:23:32,750 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:23:32,750 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:23:36,122 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:23:44,765 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:23:44,766 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:23:44,766 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:23:44,771 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:23:44,771 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:27:17,815 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:27:20,095 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-05 15:27:25,778 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/main/java
+2020-07-05 15:27:25,779 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-05 15:27:25,780 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-05 15:27:25,783 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/test/java
+2020-07-05 15:27:32,549 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-05 15:27:36,368 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 18 sec
+2020-07-05 15:27:48,741 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:27:48,742 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:27:48,780 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:27:48,786 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:27:48,786 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-05 15:28:02,894 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:28:04,706 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:28:07,287 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.3.RELEASE/spring-cloud-starter-openfeign-2.2.3.RELEASE.pom
+2020-07-05 15:28:10,452 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-07-05 15:28:10,453 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:28:10,453 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:28:10,455 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-07-05 15:28:14,046 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:28:14,934 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2020-07-05 15:28:17,795 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:17,795 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:28:17,819 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:17,821 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:17,821 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 15:28:40,591 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:40,591 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:40,592 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:40,600 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:40,600 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-05 15:28:40,642 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:40,642 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:40,643 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:40,648 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:40,648 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 15:28:47,193 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,194 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,194 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-05 15:28:47,236 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,242 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,242 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:28:47,499 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,499 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,500 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:28:47,504 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:28:47,504 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:31:05,330 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:31:18,345 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-05 15:31:50,098 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-07-05 15:31:50,098 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:31:50,099 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-05 15:31:50,101 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-07-05 15:31:54,269 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 48 sec
+2020-07-05 15:32:02,215 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:32:02,216 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:32:02,292 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:32:02,302 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:32:02,302 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 15:32:35,819 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:32:38,006 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-05 15:32:43,090 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/main/java
+2020-07-05 15:32:43,091 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-05 15:32:43,091 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-05 15:32:43,092 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/test/java
+2020-07-05 15:32:45,369 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-05 15:32:46,954 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2020-07-05 15:32:51,793 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:32:51,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:32:51,797 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:32:51,804 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:32:51,804 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-05 15:33:07,544 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:33:09,389 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:33:13,525 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/main/java
+2020-07-05 15:33:13,525 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:33:13,526 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:33:13,528 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/test/java
+2020-07-05 15:33:17,257 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:33:18,584 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2020-07-05 15:33:23,600 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:33:23,601 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:33:23,637 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:33:23,641 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:33:23,641 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:35:04,184 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:35:05,948 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:35:09,758 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/main/java
+2020-07-05 15:35:09,759 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:35:09,759 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-05 15:35:09,760 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/test/java
+2020-07-05 15:35:10,427 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-07-05 15:35:15,043 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:35:15,045 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:35:15,047 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:35:15,054 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:35:15,054 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:36:43,878 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-05 15:36:49,429 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:36:49,430 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:36:49,430 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:36:49,436 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:36:49,437 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:36:54,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:36:54,918 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:36:54,930 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:36:54,936 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:36:54,937 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:37:08,942 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:37:08,944 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:37:08,960 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:37:08,965 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:37:08,966 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:37:37,827 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-05 15:37:40,059 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:37:47,197 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/main/java
+2020-07-05 15:37:47,198 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-05 15:37:47,200 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-05 15:37:47,203 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/test/java
+2020-07-05 15:37:51,333 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:37:52,409 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2020-07-05 15:37:55,224 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:37:55,225 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:37:55,266 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:37:55,268 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:37:55,269 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:38:37,918 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:38:37,920 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:38:37,924 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:38:37,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:38:37,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:38:52,872 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-05 15:38:57,983 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:38:57,983 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:38:57,984 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:38:57,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:38:57,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:39:33,578 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:39:33,579 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:39:33,598 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:39:33,603 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:39:33,605 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-05 15:47:57,096 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:47:57,106 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:47:57,113 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:47:57,125 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:47:57,125 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 15:51:39,869 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:51:39,873 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 15:51:39,883 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 15:51:39,890 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 15:51:39,891 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-05 16:14:49,369 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:14:49,410 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 16:14:49,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 16:14:49,468 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:14:49,469 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 16:22:52,324 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:22:52,375 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 16:22:52,380 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 16:22:52,387 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:22:52,387 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 16:45:32,611 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:45:32,678 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 16:45:32,711 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 16:45:32,722 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:45:32,722 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-05 16:57:26,198 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:57:26,200 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 16:57:26,229 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 16:57:26,249 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 16:57:26,250 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-05 17:39:01,941 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 17:39:02,317 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 17:39:02,457 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 17:39:02,602 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 17:39:02,603 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 14:21:33,963 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 14:21:34,493 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 14:22:19,611 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:19,700 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:22:19,776 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:22:19,786 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:19,787 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 14:22:23,126 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 14:22:30,022 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-06 14:22:36,747 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:36,749 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:22:36,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:22:36,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:36,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 14:22:38,713 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-06 14:22:44,306 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:44,307 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:22:44,311 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:22:44,318 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:44,319 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 14:22:46,833 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 14:22:52,827 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:52,828 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:22:53,010 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:22:53,017 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:22:53,018 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 14:22:56,758 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 14:23:00,461 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:00,463 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:23:00,518 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:00,526 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:00,527 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 14:23:07,189 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 14:23:10,128 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-06 14:23:11,183 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-06 14:23:12,279 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 14:23:13,881 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 14:23:26,348 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:26,352 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:26,352 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:26,363 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:26,365 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 14:23:31,808 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:31,809 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:31,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:31,817 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:31,817 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 14:23:36,804 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:36,804 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:36,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:36,820 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:36,821 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 14:23:41,009 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:41,009 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:41,009 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:41,013 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:41,013 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 14:23:43,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:43,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:43,767 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:23:43,770 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:23:43,770 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 14:25:27,917 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:25:34,776 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/main/java
+2020-07-06 14:25:34,777 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 14:25:34,784 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 14:25:34,804 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/test/java
+2020-07-06 14:25:36,592 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2020-07-06 14:25:37,190 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:25:40,598 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:25:44,817 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:25:44,818 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:25:44,896 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:25:44,899 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:25:44,899 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:25:48,817 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:25:55,347 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:25:55,348 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:25:55,349 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:25:55,356 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:25:55,357 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:27:15,107 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-06 14:27:21,705 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:27:35,077 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/main/java
+2020-07-06 14:27:35,078 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 14:27:35,079 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 14:27:35,082 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/test/java
+2020-07-06 14:27:39,620 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:27:41,983 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 26 sec
+2020-07-06 14:27:47,331 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:27:47,333 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:27:47,387 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:27:47,395 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:27:47,396 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:29:02,903 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 14:29:14,111 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:14,112 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:29:14,112 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:29:14,117 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:14,117 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:29:19,912 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:20,076 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:29:20,096 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:29:20,104 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:20,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:29:46,706 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:46,709 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:29:46,717 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:29:46,744 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:29:46,744 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:30:26,098 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 14:30:33,911 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/main/java
+2020-07-06 14:30:33,911 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 14:30:33,918 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 14:30:33,931 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/test/java
+2020-07-06 14:30:35,506 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2020-07-06 14:30:35,805 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 14:30:38,756 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 14:30:44,936 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:44,937 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:30:44,972 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:30:44,976 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:44,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 14:30:47,808 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 14:30:50,479 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:50,479 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:30:50,479 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:30:50,482 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:50,482 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 14:30:57,885 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:57,886 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:30:57,886 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:30:57,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:30:57,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 14:36:30,657 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:36:30,694 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:36:30,699 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:36:30,706 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:36:30,707 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 14:52:47,542 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:52:47,588 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 14:52:47,640 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 14:52:47,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 14:52:47,651 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:14:18,453 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:14:18,485 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:14:18,514 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:14:18,523 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:14:18,524 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:17:04,370 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 15:17:26,911 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-06 15:17:29,185 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 15:17:34,566 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/main/java
+2020-07-06 15:17:34,567 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 15:17:34,568 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 15:17:34,570 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/test/java
+2020-07-06 15:17:40,037 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 15:17:41,567 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2020-07-06 15:18:59,287 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 15:19:17,990 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:17,991 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:19:17,992 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:19:18,000 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:18,001 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:19:29,813 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:29,815 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:19:29,829 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:19:29,849 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:29,850 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:19:41,460 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:41,462 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:19:41,469 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:19:41,478 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:19:41,478 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:21:18,206 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:21:18,209 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:21:18,234 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:21:18,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:21:18,242 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:27:23,653 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:27:23,655 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:27:23,687 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:27:23,694 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:27:23,695 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:28:20,294 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:28:20,295 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:28:20,300 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:28:20,308 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:28:20,308 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:30:12,679 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:30:12,681 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:30:12,687 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:30:12,697 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:30:12,698 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:30:23,588 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:30:23,591 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:30:23,598 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:30:23,607 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:30:23,608 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:31:26,533 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:31:26,536 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:31:26,560 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:31:26,571 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:31:26,571 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:31:58,922 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:31:58,924 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:31:58,932 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:31:58,941 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:31:58,942 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:32:53,729 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:32:53,735 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:32:53,761 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:32:53,803 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:32:53,804 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 15:50:49,105 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:50:49,124 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:50:49,180 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:50:49,190 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:50:49,191 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 15:52:07,345 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:52:07,348 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:52:07,355 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:52:07,364 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:52:07,365 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 15:55:42,174 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:55:42,176 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:55:42,216 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:55:42,232 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:55:42,233 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:55:54,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:55:54,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:55:54,946 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:55:54,955 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:55:54,956 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 15:57:27,245 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:57:27,248 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:57:27,280 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:57:27,291 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:57:27,292 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 15:57:35,655 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:57:35,658 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:57:35,663 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:57:35,672 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:57:35,672 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 15:58:09,658 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:58:09,659 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:58:09,663 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:58:09,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:58:09,669 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 15:58:53,628 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:58:53,630 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:58:53,682 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:58:53,738 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:58:53,738 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 15:59:58,166 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:59:58,168 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 15:59:58,191 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 15:59:58,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 15:59:58,199 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 16:00:23,525 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 16:00:23,528 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 16:00:23,630 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 16:00:23,637 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 16:00:23,637 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 16:00:27,472 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 16:00:27,475 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 16:00:27,479 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 16:00:27,489 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 16:00:27,490 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 18:05:58,559 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 18:06:26,939 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-06 18:06:30,495 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-06 18:06:32,704 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 18:06:34,708 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 18:06:36,218 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 18:06:37,404 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 18:07:03,344 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:03,384 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:03,458 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:03,467 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:03,468 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 18:07:12,871 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:12,875 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:12,925 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:12,931 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:12,931 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 18:07:16,801 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:16,802 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:16,805 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:16,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:16,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 18:07:24,409 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:24,410 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:24,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:24,453 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:24,454 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 18:07:31,684 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:31,686 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:31,721 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:31,727 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:31,727 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:07:38,342 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:38,343 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:38,351 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:38,355 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:38,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:07:45,437 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:45,438 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:07:45,480 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:07:45,486 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:07:45,487 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:09:18,469 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:09:22,477 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /centralized-configuration-service/src/main/java
+2020-07-06 18:09:22,478 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /centralized-configuration-service/src/main/resources
+2020-07-06 18:09:22,486 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /centralized-configuration-service/src/main/resources
+2020-07-06 18:09:22,494 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /centralized-configuration-service/src/test/java
+2020-07-06 18:09:24,159 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2020-07-06 18:09:25,002 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:09:28,469 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:09:31,006 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:09:31,008 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:09:31,010 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:09:31,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:09:31,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 18:09:33,878 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:09:41,202 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:09:41,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:09:41,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:09:41,212 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:09:41,212 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 18:16:58,922 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 18:17:10,732 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.2.3.RELEASE/spring-cloud-starter-config-2.2.3.RELEASE.pom
+2020-07-06 18:17:13,532 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:17:13,533 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:17:13,533 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:17:13,539 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:17:13,540 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:17:22,091 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:17:22,095 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:17:22,128 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:17:22,132 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:17:22,132 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:20:23,551 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 18:20:31,366 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:20:31,368 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:20:31,369 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:20:31,377 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:20:31,377 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:20:44,168 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:20:44,169 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:20:44,213 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:20:44,219 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:20:44,219 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:21:03,852 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 18:21:17,048 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:17,049 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:21:17,050 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:21:17,057 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:17,058 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:21:45,974 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:45,976 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:21:46,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:21:46,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:46,013 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:21:49,910 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 18:21:57,446 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:57,447 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:21:57,447 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:21:57,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:21:57,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 18:22:08,320 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:08,321 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:22:08,473 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:22:08,477 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:08,477 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 18:22:30,642 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-06 18:22:35,489 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:35,490 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:22:35,490 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:22:35,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:35,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 18:22:42,470 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:42,471 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:22:42,475 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:22:42,479 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:22:42,480 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 18:22:55,274 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-06 18:23:01,613 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:01,613 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:01,613 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:01,618 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:01,618 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 18:23:12,766 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:12,767 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:23:12,814 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:12,819 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:12,819 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 18:23:20,589 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 18:23:27,274 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:27,275 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:27,275 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:27,280 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:27,280 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 18:23:38,333 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:38,334 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:23:38,374 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:23:38,378 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:23:38,379 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 18:23:42,017 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-07-06 18:23:52,338 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:authentication-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\pom.xml.
+2020-07-06 18:23:56,484 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:cart-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\cart-service\pom.xml.
+2020-07-06 18:23:58,254 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:23:59,861 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:eureka-discovery-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\pom.xml.
+2020-07-06 18:24:01,567 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:favorite-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\pom.xml.
+2020-07-06 18:24:02,899 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 18:24:03,926 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 18:24:05,458 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 18:24:14,738 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/main/java
+2020-07-06 18:24:14,739 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-06 18:24:14,740 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /authentication-service/src/main/resources
+2020-07-06 18:24:14,742 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /authentication-service/src/test/java
+2020-07-06 18:24:15,626 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/main/java
+2020-07-06 18:24:15,626 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-06 18:24:15,627 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cart-service/src/main/resources
+2020-07-06 18:24:15,629 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cart-service/src/test/java
+2020-07-06 18:24:16,489 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /centralized-configuration-service/src/main/java
+2020-07-06 18:24:16,489 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /centralized-configuration-service/src/main/resources
+2020-07-06 18:24:16,490 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /centralized-configuration-service/src/main/resources
+2020-07-06 18:24:16,493 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /centralized-configuration-service/src/test/java
+2020-07-06 18:24:17,275 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/main/java
+2020-07-06 18:24:17,276 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-06 18:24:17,277 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-discovery-service/src/main/resources
+2020-07-06 18:24:17,279 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-discovery-service/src/test/java
+2020-07-06 18:24:18,269 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/main/java
+2020-07-06 18:24:18,269 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 18:24:18,270 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /favorite-service/src/main/resources
+2020-07-06 18:24:18,272 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /favorite-service/src/test/java
+2020-07-06 18:24:19,111 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/main/java
+2020-07-06 18:24:19,112 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-06 18:24:19,113 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /menuitem-service/src/main/resources
+2020-07-06 18:24:19,115 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /menuitem-service/src/test/java
+2020-07-06 18:24:19,915 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/main/java
+2020-07-06 18:24:19,916 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 18:24:19,917 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-service/src/main/resources
+2020-07-06 18:24:19,919 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-service/src/test/java
+2020-07-06 18:24:20,786 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/main/java
+2020-07-06 18:24:20,787 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-06 18:24:20,788 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zuul-gateway/src/main/resources
+2020-07-06 18:24:20,790 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zuul-gateway/src/test/java
+2020-07-06 18:24:27,545 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:centralized-configuration-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\pom.xml.
+2020-07-06 18:24:29,226 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 18:24:31,124 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 18:24:34,631 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 18:24:37,305 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 55 sec
+2020-07-06 18:24:42,562 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:42,563 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:24:42,566 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:24:42,570 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:42,570 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 18:24:47,340 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:47,341 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:24:47,353 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:24:47,362 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:47,362 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 18:24:51,080 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:51,081 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:24:51,084 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:24:51,089 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:51,090 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 18:24:55,089 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:55,089 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:24:55,091 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:24:55,094 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:55,094 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 18:24:58,820 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:58,823 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:24:58,836 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:24:58,846 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:24:58,846 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 18:25:05,267 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:05,268 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:25:05,321 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:25:05,328 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:05,329 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:25:10,254 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:10,255 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:25:10,258 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:25:10,267 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:10,268 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:25:14,823 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:14,824 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:25:14,853 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:25:14,857 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:25:14,857 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:26:15,375 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:26:15,378 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:26:15,383 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:26:15,392 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:26:15,393 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:26:24,244 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:26:24,246 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:26:24,258 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:26:24,273 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:26:24,274 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:26:58,380 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:menuitem-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\pom.xml.
+2020-07-06 18:27:03,435 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:03,436 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:27:03,436 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:27:03,440 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:03,440 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:27:08,717 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:08,718 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:27:08,724 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:27:08,730 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:08,730 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:27:39,713 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:39,715 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:27:39,720 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:27:39,729 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:27:39,729 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 18:27:59,728 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:movie-service:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\movie-service\pom.xml.
+2020-07-06 18:28:04,569 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:04,570 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:28:04,570 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:28:04,575 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:04,575 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:28:28,784 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:28,785 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:28:28,790 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:28:28,795 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:28,795 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:28:32,540 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:32,542 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:28:32,548 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:28:32,556 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:28:32,557 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 18:29:07,754 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cognizant:zuul-gateway:0.0.1-SNAPSHOT @ E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\pom.xml.
+2020-07-06 18:29:13,298 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:29:13,299 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:29:13,300 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:29:13,304 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:29:13,305 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:29:22,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:29:22,670 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:29:22,675 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:29:22,680 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:29:22,680 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
+2020-07-06 18:32:39,043 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:32:39,046 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 18:32:39,050 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 18:32:39,063 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 18:32:39,063 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 19:00:09,248 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:00:09,292 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:00:09,298 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:00:09,307 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:00:09,307 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 19:00:14,820 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:00:14,823 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:00:14,828 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:00:14,835 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:00:14,836 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\centralized-configuration-service\src\test\resources
+2020-07-06 19:04:15,864 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:04:15,865 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:04:15,930 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:04:15,942 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:04:15,942 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\authentication-service\src\test\resources
+2020-07-06 19:10:46,940 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:10:46,942 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:10:47,026 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:10:47,032 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:10:47,032 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\cart-service\src\test\resources
+2020-07-06 19:11:11,045 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:11:11,047 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:11:11,051 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:11:11,058 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:11:11,058 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\eureka-discovery-service\src\test\resources
+2020-07-06 19:11:57,134 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:11:57,135 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:11:57,147 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:11:57,153 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:11:57,153 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\favorite-service\src\test\resources
+2020-07-06 19:12:27,525 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:12:27,526 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:12:27,531 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:12:27,537 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:12:27,538 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\menuitem-service\src\test\resources
+2020-07-06 19:13:12,141 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:13:12,142 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:13:12,145 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:13:12,155 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:13:12,156 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\movie-service\src\test\resources
+2020-07-06 19:13:59,345 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:13:59,346 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-06 19:13:59,349 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-06 19:13:59,353 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-06 19:13:59,353 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\stage4-cogni\microservices-practice-and-final-check\zuul-gateway\src\test\resources
